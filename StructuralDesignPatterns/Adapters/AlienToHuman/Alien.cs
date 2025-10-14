@@ -6,12 +6,12 @@ public class Alien
 
     public string Umba()
     {
-        return "Umba!";
+        return "RJ#)3";
     }
 
     public string Umba(string name)
     {
-        return $"Umba, {name}";
+        return $"RJ#)3, {name}";
     }
 
     public string Eat()
@@ -21,6 +21,6 @@ public class Alien
 
     public string Eat(string sound)
     {
-        return sound;
+        return $"AS3!@#, {sound}";
     }
 }
