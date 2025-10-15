@@ -1,4 +1,4 @@
-namespace Adapters.AlienToHuman;
+namespace StructrualDesignPatterns.Adapters.AlienToHuman;
 
 public class AlienToHumanAdapter : Human
 {
