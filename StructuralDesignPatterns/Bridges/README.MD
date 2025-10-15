@@ -4,4 +4,4 @@ This is a PERFECT case for `Bridge` pattern. We have a complicated implementatio
 
 Perfect way - association. Just let's use aggragation (a subtype from association) to implement this!
 
-Look at [`SubmittingStudent.cs`]('SubmittingStudent.cs') class firstly.
+Look at [`SubmittingStudent.cs`](SubmittingStudent.cs) class firstly.
