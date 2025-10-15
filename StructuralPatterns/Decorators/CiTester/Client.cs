@@ -1,4 +1,4 @@
-namespace StructrualDesignPatterns.Decorators.CiTester;
+namespace StructuralPatterns.Decorators.CiTester;
 
 public class Client
 {

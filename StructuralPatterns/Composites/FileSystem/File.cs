@@ -1,4 +1,4 @@
-namespace StructrualDesignPatterns.Composites.FileSystem;
+namespace StructuralPatterns.Composites.FileSystem;
 
 public class File : ICompound
 {
