@@ -2,7 +2,6 @@ namespace StructuralPatterns.Facades.GraphLib;
 
 public class GraphLib
 {
-
     // imagine an enourm system (and incomprehensible like OGDF (!))
     public GraphLib() { }
 
