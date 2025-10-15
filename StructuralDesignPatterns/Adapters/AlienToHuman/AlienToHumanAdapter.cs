@@ -21,11 +21,13 @@ public class AlienToHumanAdapter : Human
 
     public override string Eat()
     {
+        alien.Eat();
         return "Crunch!";
     }
 
     public override string Eat(string sound)
     {
-        return alien.Eat(sound);
+        alien.Eat(sound);
+        return base.Eat(sound);
     }
 }

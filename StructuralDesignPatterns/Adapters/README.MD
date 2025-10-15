@@ -8,5 +8,5 @@ You know, that change an already created code is a bad idea, and, of course, cha
 That's why `adapter` has been introduce.
 
 Realized examples:
-- Alien to Human Adapter;
+- [Alien to Human Adapter](AlienToHuman/README.MD);
 
