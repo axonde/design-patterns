@@ -1,4 +1,4 @@
-namespace StructrualDesignPatterns.Decorators;
+namespace StructrualDesignPatterns.Decorators.CiTester;
 
 public abstract class TestDecorator(ITest wrappedTest) : ITest
 {

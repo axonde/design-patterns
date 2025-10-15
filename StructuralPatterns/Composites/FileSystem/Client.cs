@@ -1,4 +1,4 @@
-namespace StructrualDesignPatterns.Composites;
+namespace StructrualDesignPatterns.Composites.FileSystem;
 
 public class Client
 {

@@ -1,4 +1,4 @@
-namespace StructrualDesignPatterns.Adapters.AlienToHuman;
+namespace StructuralPatterns.Adapters.AlienToHuman;
 
 public class Human
 {

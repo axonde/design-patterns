@@ -1,4 +1,4 @@
-namespace StructrualDesignPatterns.Bridges;
+namespace StructuralPatterns.SubmittingStudent.Bridges;
 
 public class GentleMentor : IMentor
 {
