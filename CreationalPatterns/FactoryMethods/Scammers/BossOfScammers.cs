@@ -2,9 +2,9 @@ namespace CreationalPatterns.FactoryMethods;
 
 public class BossOfScammers
 {
-    private IReadOnlyCollection<IScammer> _scammers;
+    private IReadOnlyCollection<Scammer> _scammers;
 
-    BossOfScammers(IReadOnlyCollection<IScammer> scammers)
+    BossOfScammers(IReadOnlyCollection<Scammer> scammers)
     {
         _scammers = scammers;
     }
@@ -12,7 +12,7 @@ public class BossOfScammers
     int GetEarn()
     {
         int total = 0;
-        foreach (IScammer scammer in _scammers)
+        foreach (Scammer scammer in _scammers)
         {
             IStolen stolen = scammer.Scam();
             total += stolen.SellInDarknet();
